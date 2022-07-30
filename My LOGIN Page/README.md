@@ -5,4 +5,4 @@
 </div>
 
 - This is a Login and Registration page I did based on my recent [Youtube](https://goo.gl/tTFmPb) tutorial.
-- [Image source](htts://www.pexels.com)
+- For Image source, Kindly click [here](htts://www.pexels.com)
