@@ -2,12 +2,19 @@
 <head>
         <title>Login and Registeration Form</title>
         <link rel="stylesheet" href="style.css">
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Hover Selector</title>
 </head>
 <body>
     <div class="hero">
         <div class="circle-1" id="circle-1"></div>
-    <div class='circle-2' id="circle-2"></div>
+        <div class='circle-2' id="circle-2"></div>
+
             <div class="form-box">
+                <div class="close-btn">
+                    <img src="close.png" alt="">
+                </div>
             <div class="button-box">
                 <div id="btn"></div>
                 <button type="button" class="toggle-btn" onclick="login()">Log In</button>
@@ -21,7 +28,7 @@
             <p>Continue with Google, Twitter or Facebook</p>
         </div>    
         <form id="login" class="input-group">
-            <input type="text" class="input-field" placeholder="User ID" required>
+            <input type="text" class="input-field" placeholder= "User ID" required>
             <input type="password" class="input-field" class="form-box" placeholder="Enter Password" required>
             <input type="checkbox" class="check-box"><span>Remember me</span>
             <button type="submit" class="Submit-btn">Sign In</button>
