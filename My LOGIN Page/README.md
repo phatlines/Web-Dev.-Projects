@@ -1,4 +1,4 @@
-## LOGIN & REGISTRATION PAGE
+##LOGIN & REGISTRATION PAGE
 
 <div>
   ### Learning how to make login form and registration form design using HTML and CSS with toggle button to switch login and registration form.
